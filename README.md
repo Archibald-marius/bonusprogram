@@ -6,5 +6,5 @@ Class BonusProgram - відповідність кожного юзера по �
 
 Для запуску необхідно змінити конфігурації на свої в application.properites:
 spring.datasource.url=jdbc:mysql://localhost:3306/НАЗВА_БАЗИ_ДАННИХ?useSSL=false
-spring.datasource.username=логі до свого SQL
+spring.datasource.username=логін до свого SQL
 spring.datasource.password=пароль до SQL
